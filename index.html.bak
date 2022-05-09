@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> Home design</title>
+
+
+<link rel="stylesheet"href="style.css">
+</head>
+
+<body>
+<div class="banner">
+<div class="navbar">
+<nav>
+<ul>
+<li><a href="">home</a></li>
+<li><a href="">About</a></li>
+<li><a href="">collections</a></li>
+<li><a href="">category</a></li>
+</ul>
+
+</nav>
+
+</div>
+</div>
+
+<div class ="content"  >
+<a href="" class="bnt">    2020 collections   </a>
+<h1>you should always feel<br> comfortable </h1>
+<p>choose the design that you want. </p>
+<div class="arrow-icons">
+<img src="image/back-arrow.png">
+<img src="image/next-arrow.png">
+
+</div>
+<img src ="image/img.jpg" class="feature-img">
+</div>
+
+
+</body>
+
+
+
+
+
+
+</html>
